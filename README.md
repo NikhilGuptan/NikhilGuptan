@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ng3152340@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-🔭 I’m currently working on Effective communication and making awesome products.
-- 🌱 I’m currently learning MERN Stack from Masai School
+--> 🔭 I’m currently working on Effective communication and making awesome products.
+--> 🌱 I’m currently learning MERN Stack from Masai School
 --> My website : https://my-portfolio-nikhilguptan.vercel.app/
