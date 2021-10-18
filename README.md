@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 --> 🔭 I’m currently working on Effective communication and making awesome products.
 
 🌱 I’m currently learning MERN Stack from Masai School
+
 📫 How to reach me: ng3152340@gmail.com
 
  My website : https://my-portfolio-nikhilguptan.vercel.app/
